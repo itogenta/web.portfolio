@@ -1,0 +1,33 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+p {
+  color: blue;
+}
+
+.note{
+  color : red;
+  font-size: 20px;
+  font-weight: bold; 
+}
+
+#id-selector-demo{
+  color: purple;
+}
+li[value="2"] {
+  color: orange;
+}
+li[value="3"] {
+  color: green;
+}
+li[value="4"] {
+  color: blue;
+}
+li[value="5"] {
+  color: rgb(186, 55, 55);
+}
+
+/* Write your CSS below, don't change the rules above. */
